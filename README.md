@@ -11,7 +11,7 @@
 ## 👨‍💻 About Me
 
 - 📝 "문제를 해결하는 개발자" - 문제를 정확히 정의하고 해결하는 능력을 중요시합니다
-- 🎨 "사용자 경험을 고려하는 개발" - 기능이 완벽해도 사용자가 불편하면 좋은 서비스가 될 수 없습니다
+- 🎨 "사용자 경험을 고려하는 개발" - 사용자가 불편한 서비스 경험을 갖지 않도록 노력합니다.
 
 ## 🛠️ Tech Stack
 
@@ -68,16 +68,6 @@
 - **한국공학대 컴퓨터전자공학과 학사** (2021.03 ~ 2025.02)
 - **2020 전국기능경기대회 은상** | 웹 디자인 및 개발 부문
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mingit55&show_icons=true&theme=tokyonight)](https://github.com/mingit55)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mingit55&layout=compact&theme=tokyonight)](https://github.com/mingit55)
-
-</div>
-
 ## 📫 Contact
 
 <div align="center">
@@ -90,5 +80,3 @@
   </a>
   
 </div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
