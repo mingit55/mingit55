@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=김민재&fontSize=70&animation=fadeIn&fontAlignY=38&desc=프론트엔드%20개발자&descAlignY=60&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=KIM%20MIN%20JAE&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Frontend%20Engineer&descAlignY=60&descAlign=62)
 
 <div align="center">
   
